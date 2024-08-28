@@ -97,6 +97,9 @@ This assignment is designed to test your ability to integrate and automate the D
 
 ![image](https://github.com/user-attachments/assets/f0b296db-d17b-4f90-8b48-1ce44ce150b6)
 
+![image](https://github.com/user-attachments/assets/6d89be35-2c6c-4611-8058-7d2c3d18acb4)
+
+
 
 ## Best Practices: 
  For best practices I have incorporated github personal access token as secret instead of using its direct credentails.
