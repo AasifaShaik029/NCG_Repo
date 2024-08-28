@@ -67,6 +67,35 @@ This assignment is designed to test your ability to integrate and automate the D
 
   ![image](https://github.com/user-attachments/assets/8239cbed-6f81-42b2-8a96-b00e7c1a049b)
 
+  ## Building and deploying the Application :
+  Follow the steps to build the app.
+
+  ![image](https://github.com/user-attachments/assets/035b2623-2f1d-451a-b999-c3d1559b8da6)
+
+  ![image](https://github.com/user-attachments/assets/8aa9eb15-db78-49de-a03e-2ba90da3a6a3)
+
+  and click on save.
+
+  Click on build
+  and you can see that our basic application whcih prints "hello world" is succesfully built.
+
+  ![image](https://github.com/user-attachments/assets/76ed20cd-8b2f-44ce-93f5-923c14142814)
+
+
+  ![image](https://github.com/user-attachments/assets/5e012249-1050-457a-865f-d0c3e68edf89)
+
+ ## Deployment triggering automatically using webhook
+  ### Setup webhook
+    I have followed below steps to setup webhook . Under repo , go to repo setting and under that add webhook in which we need to enter payload url
+
+  I have made some chnages in the code and automatically my build starts running again.
+
+  
+
+
+
+
+
   
 
 
