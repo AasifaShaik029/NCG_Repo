@@ -5,7 +5,6 @@ Set up a Continuous Integration/Continuous Deployment (CI/CD) pipeline with vers
 This assignment is designed to test your ability to integrate and automate the DevOps lifecycle within a limited timeframe.
 
 # Solution:
-
 ## Repos used in this assignment : https://github.com/AasifaShaik029/NCG_Repo
 ## Setting up a Continuous Integration/Continuous Deployment (CI/CD) pipeline:
 ### Tools Used :
@@ -97,6 +96,10 @@ This assignment is designed to test your ability to integrate and automate the D
 
 
 ![image](https://github.com/user-attachments/assets/f0b296db-d17b-4f90-8b48-1ce44ce150b6)
+
+
+## Best Practices: 
+ For best practices I have incorporated github personal access token as secret instead of using its direct credentails.
 
 -- Thank you --
 
