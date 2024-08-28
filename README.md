@@ -90,6 +90,15 @@ This assignment is designed to test your ability to integrate and automate the D
 
   I have made some chnages in the code and automatically my build starts running again.
 
+  I made small change in my helloworld.html and committed. And automatically build triggers.
+  ![image](https://github.com/user-attachments/assets/553edf98-b4db-4376-ab48-c2b67af3f577)
+
+
+![image](https://github.com/user-attachments/assets/f0b296db-d17b-4f90-8b48-1ce44ce150b6)
+
+-- Thank you --
+
+
   
 
 
